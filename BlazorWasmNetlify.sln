@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorWasmNetlify", "BlazorWasmNetlify.csproj", "{A4F2BEEA-3A35-431B-B7F3-122B80605446}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4F2BEEA-3A35-431B-B7F3-122B80605446}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4F2BEEA-3A35-431B-B7F3-122B80605446}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4F2BEEA-3A35-431B-B7F3-122B80605446}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4F2BEEA-3A35-431B-B7F3-122B80605446}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEE7F33E-F3A9-4A10-904A-88B06F7FFCA8}
+	EndGlobalSection
+EndGlobal
